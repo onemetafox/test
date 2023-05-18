@@ -2,7 +2,7 @@
 
 I'm Luuk, Chief Technology Officer at [Digital Renaissance](https://thedigitalrenaissance.io/team).
 
-I wrote this test to get a sense of your:
+I wrote this test to get a sense of your: 
 
 - Drive
 - Speed
